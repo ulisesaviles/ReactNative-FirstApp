@@ -1,2 +1,4 @@
 [submodule "C:\\Users\\User\\Documents\\GitHub\\FirstRnApp\\RnApp"]
 	ignore = untracked
+[submodule "RnApp"]
+	ignore = untracked
